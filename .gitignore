@@ -1,4 +1,6 @@
 *.kbf
+*.xls
+*.xlsx
 output/
 .venv/
 venv/
